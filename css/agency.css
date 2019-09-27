@@ -36,7 +36,8 @@ h6 {
 }
 
 .page-section {
-  padding: 100px 0;
+  padding: 20px 0 150px;
+
 }
 
 .page-section h2.section-heading {
@@ -50,6 +51,15 @@ h6 {
   font-weight: 400;
   font-style: normal;
   margin-bottom: 75px;
+  text-transform: none;
+  font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+.page-section h4.section-subheading-large {
+  font-size: 25px;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: 1x5px;
   text-transform: none;
   font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
@@ -176,7 +186,10 @@ header.masthead {
   text-align: center;
   color: white;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-  background-image: url("../img/header-bg-2.jpg");
+/*  background-image: url("../img/header-bg-2.jpg");*/
+  background-image: url("../img/Landsat.jpg");
+
+  background-color: #212529;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -210,9 +223,9 @@ header.masthead .intro-text .intro-heading {
     padding-bottom: 200px;
   }
   header.masthead .intro-text .intro-lead-in {
-    font-size: 40px;
-    font-style: italic;
-    line-height: 40px;
+    font-size: 20px;
+    font-style: regular;
+    line-height: 30px;
     margin-bottom: 25px;
     font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   }
@@ -571,6 +584,51 @@ header.masthead .intro-text .intro-heading {
   text-align: center;
 }
 
+.team-member .portfolio-link {
+  position: relative;
+  display: block;
+  max-width: 400px;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+.team-member .portfolio-link .portfolio-hover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transition: all ease 0.5s;
+  opacity: 0;
+  background: rgba(254, 209, 54, 0.9);
+}
+
+.team-member .portfolio-link .portfolio-hover:hover {
+  opacity: 1;
+}
+
+.team-member .portfolio-link .portfolio-hover .portfolio-hover-content {
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  height: 20px;
+  margin-top: -12px;
+  text-align: center;
+  color: white;
+}
+
+.team-member .portfolio-link .portfolio-hover .portfolio-hover-content i {
+  margin-top: -12px;
+}
+
+.team-member .portfolio-link .portfolio-hover .portfolio-hover-content h3,
+.team-member .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+  margin: 0;
+}
+
+.team-member-modal .modal-dialog {
+  margin: 1rem;
+  max-wid}
+
 .team-member img {
   width: 225px;
   height: 225px;
@@ -588,14 +646,14 @@ header.masthead .intro-text .intro-heading {
 }
 
 section#contact {
-  background-color: #212529;
-  background-image: url("../img/header-bg-2.jpg");
+  background-color: white;
+/*  background-image: url("../img/header-bg-2.jpg"); */
   background-repeat: no-repeat;
   background-position: center;
 }
 
 section#contact .section-heading {
-  color: #fff;
+  color: black;
 }
 
 section#contact .form-group {
@@ -692,4 +750,5 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 .biblio > li{
   margin-bottom: 20px;
+  margin-left: 1em;
 }
