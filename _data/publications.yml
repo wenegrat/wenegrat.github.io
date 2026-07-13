@@ -1,0 +1,282 @@
+submitted:
+- authors: Zhang, Z. and 27 coauthors
+  title: Oceanic Submesoscale Processes and their Impacts.
+  journal: <i>Nature Reviews Earth & Environment</i>
+  links: []
+- authors: <b>Knudsen, L.</b>, <b>J.O. Wenegrat</b>, J. Hilditch, and L. Thomas
+  title: Parametric subharmonic instability in the ocean bottom boundary layer.
+  journal: <i>Journal of Fluid Mechanics</i>
+  links:
+  - url: https://arxiv.org/abs/2605.28555
+    label: preprint
+- authors: <b>Zheng, Z.</b>, <b>J.O. Wenegrat</b>, B. Fox-Kemper, <b>T. Chor</b>, and G.J. Brett
+  title: Submesoscale frontogenesis drives strong finescale tracer subduction.
+  journal: '<i>Journal of Geophysical Research: Oceans</i>'
+  links:
+  - url: https://essopenarchive.org/doi/full/10.22541/essoar.15003344/v2
+    label: preprint
+- authors: <b>Wenegrat, J.O.</b>, <b>T. Chor</b>, and Roy Barkan
+  title: Coarse-grained local available potential energy.
+  journal: <i>Journal of Fluid Mechanics</i>
+  links:
+  - url: https://arxiv.org/abs/2605.15879
+    label: preprint
+published:
+- authors: <b>Uchoa, I.</b>, <b>J.O. Wenegrat</b>, A. Kinsella, I.M. Leyba, L. O'Neill, and L. Lenain, 2026
+  title: Observed rapid adjustment of the atmospheric boundary layer to submesoscale sea surface temperature fronts.
+  journal: <i>Proceedings of the National Academy of Science</i>. in press.
+  links: []
+- authors: Renault, L., <b>J.O. Wenegrat</b>, H. Seo, and P. Marchesiello, 2026
+  title: The energetics of fine-scale air-sea interactions.
+  journal: <i>Annual Review of Marine Science</i>. in press.
+  links: []
+- authors: <b>Chor, T.</b>, <b>J.O. Wenegrat</b>, and G. Wagner, 2026
+  title: Turbulent mixing and dissipation around rough seamounts.
+  journal: <i>Geophys. Res. Lett.</i> 53, e2025GL121312, doi:10.1029/2025GL121312
+  links:
+  - url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121312
+    label: online
+  - url: ./publications/ChorEtAl2026.pdf
+    label: pdf
+- authors: Buijsman, M., A. Waterhouse, and 33 coauthors (alphabetical), 2026
+  title: A Multi-Agency Experiment on Internal Wave Energy, Mixing, and Interactions and their Representation in Global Ocean Models and Operational Forecasts.
+  journal: <i>BAMS.</i> 107, E158-E182. doi:10.1175/BAMS-D-24-0174.1
+  links:
+  - url: https://journals.ametsoc.org/view/journals/bams/107/1/BAMS-D-24-0174.1.xml
+    label: online
+  - url: ./publications/BuijsmanEtAl2026.pdf
+    label: pdf
+- authors: Renault, L., C. Contreras, <b>J.O. Wenegrat</b>, and <b>I. Uchoa</b>, 2025
+  title: 'Interplay of Submesoscale Current and Thermal Feedbacks: A Seasonal Perspective in the Gulf Stream.'
+  journal: '<i>Geophys. Res. Lett.</i> 52, 21, e2025GL116960, doi: 10.1029/2025GL116960'
+  links:
+  - url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116960
+    label: online
+  - url: ./publications/RenaultEtAl2025.pdf
+    label: pdf
+- authors: <b>Chen, Z., J.O. Wenegrat, T. Chor</b>, and P. Marchesiello, 2025
+  title: Evaluating turbulence parameterizations at gray zone resolutions for the ocean surface boundary layer.
+  journal: <i>JAMES</i>. 17, e2025MS005104, doi:10.1029/2025MS005104
+  links:
+  - url: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2025MS005104
+    label: online
+  - url: ./publications/ChenEtAl2025.pdf
+    label: pdf
+- authors: <b>Zheng, Z., J.O. Wenegrat</b>, B. Fox-Kemper, and G.J. Brett, 2025
+  title: Wind-catalyzed energy exchanges between fronts and boundary layer turbulence.
+  journal: <i>J. Phys. Oceanogr.</i> 55, 1591-1606, doi:10.1175/JPO-D-24-0243.1
+  links:
+  - url: https://journals.ametsoc.org/view/journals/phoc/55/9/JPO-D-24-0243.1.xml
+    label: online
+  - url: ./publications/ZhengEtAl2025.pdf
+    label: pdf
+- authors: <b>Uchoa, I., J.O. Wenegrat</b>, and L. Renault, 2025
+  title: Sink of eddy energy by submesoscale sea surface temperature variability in a coupled regional model.
+  journal: <i>J. Phys. Oceanogr.</i>, 55, 993-1007, doi:10.1175/JPO-D-24-0040.1.
+  links:
+  - url: https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-24-0040.1/JPO-D-24-0040.1.xml
+    label: online
+  - url: ./publications/UchoaEtAl2025.pdf
+    label: pdf
+- authors: <b>Chor, T.</b>, and <b>J.O. Wenegrat</b>, 2025
+  title: The turbulent dynamics of anticyclonic submesoscale headland wakes.
+  journal: <i>J. Phys. Oceanogr.</i> 55, 737-759, doi:10.1175/JPO-D-24-0139.1.
+  links:
+  - url: https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-24-0139.1/JPO-D-24-0139.1.xml
+    label: online
+  - url: ./publications/ChorWenegrat2025.pdf
+    label: pdf
+- authors: <b>Wegener, R.</b>, <b>J.O. Wenegrat</b>, V. Lance, and <b>S. Lama</b>, 2025
+  title: Spatial variability of marine heatwaves in the Chesapeake Bay.
+  journal: <i>Estuaries and Coasts.</i> 48, 113, doi:10.1007/s12237- 025-01546-9.
+  links:
+  - url: https://link.springer.com/article/10.1007/s12237-025-01546-9
+    label: online
+  - url: ./publications/Wegener_et_al-2025-Estuaries_and_Coasts.pdf
+    label: pdf
+- authors: <b>Whitley, V.,</b> and <b>J.O. Wenegrat</b>, 2025
+  title: 'Breaking internal waves on sloping topography: connecting parcel displacements to overturn size, interior-boundary exchanges, and mixing.'
+  journal: <i>J. Phys. Oceanogr.</i>, 55, 645-661. doi:10.1175/JPO-D-24-0052.1
+  links:
+  - url: https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-24-0052.1/JPO-D-24-0052.1.xml
+    label: online
+  - url: ./publications/WhitleyWenegrat2025.pdf
+    label: pdf
+- authors: Farrar, T. and 37 coauthors (alphabetical), 2025
+  title: 'S-MODE: the Sub-Mesoscale Ocean Dynamics Experiment.'
+  journal: <i>BAMS</i>, 106(4). doi:10.1175/BAMS-D-23-0178.1,
+  links:
+  - url: https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0178.1/BAMS-D-23-0178.1.xml
+    label: online
+  - url: ./publications/FarrarEtAl2025.pdf
+    label: pdf
+- authors: Nuijens, L, <b>J.O. Wenegrat</b>, P. Lopez Dekker, C. Pasquero, L.W. O'Neill, and 45 coauthors (alphabetical), 2024
+  title: 'The air-sea interaction (ASI) submesoscale: Physics and impact'
+  journal: <i>Lorentz Center Workshop Whitepaper</i>, doi:10.5065/78ac-qd31
+  links:
+  - url: https://opensky.ucar.edu/islandora/object/reports%3A41956
+    label: online
+  - url: ./publications/LCWorkshopWhitepaper2024.pdf
+    label: pdf
+- authors: Renault, L., M. Contreras, P. Marchesiello, C. Conejero, <b>I. Uchoa</b>, and <b>J.O. Wenegrat</b> 2024
+  title: Unraveling the impacts of submesoscale thermal and current feedbacks on the low level winds and oceanic submesoscale currents.
+  journal: <i>J. Phys. Oceanogr.</i>, 54, 12, 2463-2486. doi:10.1175/JPO-D-24-0097.1
+  links:
+  - url: https://journals.ametsoc.org/view/journals/phoc/54/12/JPO-D-24-0097.1.xml
+    label: online
+  - url: ./publications/RenaultEtAl2024.pdf
+    label: pdf
+- authors: Dong, J., B. Fox-Kemper, <b>J.O. Wenegrat</b>, A. Bodner, X. Yu, S. Belcher, and C. Dong, 2024
+  title: Submesoscales are a significant turbulence source in global ocean surface boundary layer.
+  journal: <i>Nature Comms.</i> 15, 9566. doi:10.1038/s41467-024-53959-y
+  links:
+  - url: https://www.nature.com/articles/s41467-024-53959-y
+    label: online
+  - url: ./publications/DongEtAl2024.pdf
+    label: pdf
+- authors: Farrar, T., and Co-Authors, 2024
+  title: Ocean surface current measurements in the Sub-Mesoscale Ocean Dynamics Experiment.
+  journal: '<i>IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, 2020.</i> 3533-3536. doi: 10.1109/IGARSS53475.2024.10642950'
+  links:
+  - url: https://ieeexplore.ieee.org/document/10642950
+    label: online
+  - url: ./publications/FarrarEtAl2024.pdf
+    label: pdf
+- authors: <b>Wenegrat, J.O.</b>, 2023
+  title: The current feedback on stress modifies the Ekman buoyancy flux at fronts.
+  journal: <i>J. Phys. Oceanogr.</i>, 53, 12, 2737-3749. doi:10.1175/JPO-D-23-0005.1
+  links:
+  - url: https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-23-0005.1/JPO-D-23-0005.1.xml
+    label: online
+  - url: ./publications/Wenegrat2023.pdf
+    label: pdf
+- authors: <b>Chor, T., J.O. Wenegrat</b>, and J.R. Taylor, 2022
+  title: Insights into the mixing efficiency of submesoscale Centrifugal-Symmetric instabilities.
+  journal: <i>J. Phys. Oceanogr.</i>, 52, 10, 2273-2287. doi:10.1175/JPO- D-21-0259.1
+  links:
+  - url: https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-21-0259.1/JPO-D-21-0259.1.xml
+    label: online
+  - url: ./publications/ChorEtAl2022.pdf
+    label: pdf
+- authors: <b>Wenegrat, J.O. , E. Bonanno</b>, U. Rack, and G. Gebbie, 2022
+  title: A century of observed temperature change in the Indian Ocean.
+  journal: <i>Geophys. Res. Lett.</i>, 49, e2022GL098217, doi:10.1029/2022GL098217.
+  links:
+  - url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL098217
+    label: online
+  - url: ./publications/WenegratEtAl2022.pdf
+    label: pdf
+- authors: Ruan, X., <b>J.O. Wenegrat</b>, and J. Gula, 2021
+  title: 'Slippery bottom boundary layers: the loss of energy from the general circulation by bottom drag.'
+  journal: '<i>Geophys. Res. Lett.</i> 48, 19. doi: 10.1029/2021GL094434'
+  links:
+  - url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094434
+    label: online
+  - url: ./publications/RuanEtAl2021.pdf
+    label: pdf
+- authors: Elipot, S., and <b>J.O. Wenegrat</b>, 2021
+  title: 'Vertical structure of near-surface currents: Importance, state of knowledge, and measurement challenges.'
+  journal: <i>CLIVAR Variations</i>, 19. doi:10.5065/ybca-0s03
+  links:
+  - url: https://opensky.ucar.edu/islandora/object/usclivar%3A130
+    label: online
+  - url: ./publications/ElipotWenegrat2021.pdf
+    label: pdf
+- authors: <b>Wenegrat, J.O.</b>, L.N. Thomas, M. Sundermeyer, J.R. Taylor, E.A. D'Asaro, J. Klymak, R.K. Shearman, and C.M. Lee, 2020
+  title: Enhanced mixing across the gyre boundary at the Gulf Stream front.
+  journal: '<i>Proceedings of the National Academy of Sciences.</i> 117, 30, 17607-17614. doi: 10.1073/pnas.2005558117'
+  links:
+  - url: https://www.pnas.org/content/early/2020/07/07/2005558117
+    label: online
+  - url: ./publications/WenegratEtAl2020.pdf
+    label: pdf
+  - url: ./publications/WenegratEtAl2020_SI.pdf
+    label: SI
+- authors: Farrar, T., and Co-Authors, 2020
+  title: 'S-MODE: The Sub-Mesoscale Ocean Dynamics Experiment.'
+  journal: '<i>IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium, 2020.</i> 3533-3536. doi: 10.1109/IGARSS39084.2020.9323112'
+  links:
+  - url: https://ieeexplore.ieee.org/document/9323112/
+    label: online
+  - url: ./publications/FarrarEtAl2020.pdf
+    label: pdf
+- authors: <b>Wenegrat, J.O.</b>, and L.N. Thomas, 2020
+  title: Centrifugal and symmetric instability during Ekman adjustment of the bottom boundary layer.
+  journal: '<i> J. Phys. Oceanogr.</i> 50, 6, 1793-1812. doi: 10.1175/JPO-D-20-0027.1'
+  links:
+  - url: https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-20-0027.1
+    label: online
+  - url: ./publications/WenegratThomas2020.pdf
+    label: pdf
+- authors: Johnson, L., C.M. Lee, E.A. D'Asaro, <b>J.O. Wenegrat</b>, and L.N. Thomas, 2020
+  title: 'Restratification at a California current upwelling front, part II: Dynamics.'
+  journal: '<i> J. Phys. Oceanogr.</i> 50, 5, 1473-1487. doi: 10.1175/JPO-D-19-0204.1'
+  links:
+  - url: https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-19-0204.1
+    label: online
+  - url: ./publications/JohnsonEtAl2020.pdf
+    label: pdf
+- authors: <b>Wenegrat, J.O.</b>, and R.S. Arthur, 2018
+  title: Response of the atmospheric boundary layer to submesoscale sea-surface temperature fronts.
+  journal: '<i>Geophys. Res. Lett.</i> <b>45</b>, 24, 13505-13512. doi: 10.1029/2018GL081034'
+  links:
+  - url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL081034
+    label: online
+  - url: ./publications/WenegratArthur2018.pdf
+    label: pdf
+- authors: <b>Wenegrat, J.O.</b>, J. Callies, and L.N. Thomas, 2018
+  title: Submesoscale baroclinic instability in the bottom boundary layer.
+  journal: '<i>J. Phys. Oceanogr.</i> <b>48</b>, 11, 2571-2592. doi: 10.1175/JPO-D-17-0264.1'
+  links:
+  - url: https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-17-0264.1
+    label: online
+  - url: ./publications/WenegratEtAl2018b.pdf
+    label: pdf
+- authors: <b>Wenegrat, J.O.</b>, L.N. Thomas, J. Gula, and J.C. McWilliams, 2018
+  title: Effects of the submesoscale on the potential vorticity budget of ocean mode waters.
+  journal: '<i>J. Phys. Oceanogr.</i> <b>48</b>, 9, 2141-2165. doi: 10.1175/JPO-D-17-0219.1'
+  links:
+  - url: https://journals.ametsoc.org/doi/full/10.1175/JPO-D-17-0219.1
+    label: online
+  - url: ./publications/WenegratEtAl2018a.pdf
+    label: pdf
+- authors: <b>Wenegrat, J.O.</b>, and L.N. Thomas, 2017
+  title: Ekman transport in balanced currents with curvature.
+  journal: '<i>J. Phys. Oceanogr.</i> <b>47</b>, 5, 1189-1203. doi: 10.1175/JPO-D-16-0239.1'
+  links:
+  - url: https://journals.ametsoc.org/doi/full/10.1175/JPO-D-16-0239.1
+    label: online
+  - url: ./publications/WenegratThomas2017.pdf
+    label: pdf
+- authors: <b>Wenegrat, J.O.</b>, and M.J. McPhaden, 2016
+  title: A simple analytical model of the diurnal Ekman layer.
+  journal: '<i>J. Phys. Oceanogr.</i> <b>46</b>, 9, 2877-2894. doi: 10.1175/JPO-D-16-0031.1'
+  links:
+  - url: https://journals.ametsoc.org/doi/full/10.1175/JPO-D-16-0031.1
+    label: online
+  - url: ./publications/WenegratMcPhaden2016b.pdf
+    label: pdf
+- authors: <b>Wenegrat, J.O.</b>, and M.J. McPhaden, 2016
+  title: 'Wind, waves, and fronts: Frictional effects in a generalized Ekman model.'
+  journal: '<i>J. Phys. Oceanogr.</i>, <b>46</b>, 2, 371-394. doi: 10.1175/JPO-D-15-0162.1'
+  links:
+  - url: https://journals.ametsoc.org/doi/full/10.1175/JPO-D-15-0162.1
+    label: online
+  - url: ./publications/WenegratMcPhaden2016a.pdf
+    label: pdf
+- authors: <b>Wenegrat, J.O.</b>, and M.J. McPhaden, 2015
+  title: Dynamics of the surface layer diurnal cycle in the equatorial Atlantic Ocean (0°, 23°W),
+  journal: '<i>J. Geophys. Res. Oceans</i>, <b>120</b>, 563-581, doi: 10.1002/2014JC010504'
+  links:
+  - url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JC010504
+    label: online
+  - url: ./publications/WenegratMcPhaden2015.pdf
+    label: pdf
+- authors: <b>Wenegrat, J.O.</b>, M.J. McPhaden, and R.-C. Lien, 2014
+  title: Wind stress and near-surface shear in the equatorial Atlantic Ocean.
+  journal: '<i>Geophys. Res. Lett.</i>, <b>41</b>, 1226-1231, doi: 10.1002/2013GL059149'
+  links:
+  - url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013GL059149
+    label: online
+  - url: ./publications/WenegratEtAl2014.pdf
+    label: pdf
