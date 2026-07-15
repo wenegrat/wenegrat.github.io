@@ -29,7 +29,9 @@ published:
 - authors: Renault, L., <b>J.O. Wenegrat</b>, H. Seo, and P. Marchesiello, 2026
   title: The energetics of fine-scale air-sea interactions.
   journal: <i>Annual Review of Marine Science</i>. in press.
-  links: []
+  links:
+  - url: https://www.annualreviews.org/content/journals/10.1146/annurev-marine-040425-024449
+    label: online
 - authors: <b>Chor, T.</b>, <b>J.O. Wenegrat</b>, and G. Wagner, 2026
   title: Turbulent mixing and dissipation around rough seamounts.
   journal: <i>Geophys. Res. Lett.</i> 53, e2025GL121312, doi:10.1029/2025GL121312
