@@ -9,12 +9,6 @@ submitted:
   links:
   - url: https://arxiv.org/abs/2605.28555
     label: preprint
-- authors: <b>Zheng, Z.</b>, <b>J.O. Wenegrat</b>, B. Fox-Kemper, <b>T. Chor</b>, and G.J. Brett
-  title: Submesoscale frontogenesis drives strong finescale tracer subduction.
-  journal: '<i>Journal of Geophysical Research: Oceans</i>'
-  links:
-  - url: https://essopenarchive.org/doi/full/10.22541/essoar.15003344/v2
-    label: preprint
 - authors: <b>Wenegrat, J.O.</b>, <b>T. Chor</b>, and Roy Barkan
   title: Coarse-grained local available potential energy.
   journal: <i>Journal of Fluid Mechanics</i>
@@ -22,6 +16,12 @@ submitted:
   - url: https://arxiv.org/abs/2605.15879
     label: preprint
 published:
+- authors: <b>Zheng, Z.</b>, <b>J.O. Wenegrat</b>, B. Fox-Kemper, <b>T. Chor</b>, and G.J. Brett, 2026:
+  title: Submesoscale frontogenesis drives strong finescale tracer subduction.
+  journal: '<i>Journal of Geophysical Research: Oceans</i> in press.'
+  links:
+  - url: https://essopenarchive.org/doi/full/10.22541/essoar.15003344/v3
+    label: preprint
 - authors: <b>Uchoa, I.</b>, <b>J.O. Wenegrat</b>, A. Kinsella, I.M. Leyba, L. O'Neill, and L. Lenain, 2026
   title: Observed rapid adjustment of the atmospheric boundary layer to submesoscale sea surface temperature fronts.
   journal: <i>Proceedings of the National Academy of Science</i>. 123 (30), e2605662123, doi:10.1073/pnas.2605662123
