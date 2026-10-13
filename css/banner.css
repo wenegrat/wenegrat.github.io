@@ -30,6 +30,13 @@ header.masthead .intro-text { padding-top: 90px; padding-bottom: 90px; }
           mask-composite: intersect;
 }
 .od-banner .od-still { display: none; }
+/* playback refused (js/banner.js): the still frame covers the video, which stays in the layout so it
+   can still start, and the browser's own play button is hidden */
+.od-banner.od-paused video { opacity: 0; }
+.od-banner.od-paused .od-still { display: block; position: absolute; left: 0; top: 0; height: 100%; }
+.od-banner video::-webkit-media-controls,
+.od-banner video::-webkit-media-controls-start-playback-button,
+.od-banner video::-webkit-media-controls-overlay-play-button { display: none !important; -webkit-appearance: none; }
 .od-banner .od-letters { position: absolute; left: 0; top: 0; width: 100%; height: 100%; }
 
 @media (max-width: 767px) {
