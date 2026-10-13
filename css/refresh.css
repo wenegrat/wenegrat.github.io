@@ -1,0 +1,73 @@
+/* Visual refresh (mock-up): modern type, accessible accent colour, calmer section styling.
+   Loaded after the template's agency.css and overrides it. */
+
+:root {
+  --accent: #0e7490;        /* teal; 5.4:1 contrast on white */
+  --accent-dark: #0b5c72;
+  --ink: #1f2933;
+  --muted: #5b6875;
+  --navy: #061a25;
+}
+
+body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: var(--ink); }
+p, .text-muted, .section-subheading, .intro-lead-in, .timeline, .biblio, .team-member p {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+}
+
+/* links and buttons */
+a { color: var(--accent); }
+a:hover, a:focus { color: var(--accent-dark); }
+.btn-primary { background-color: var(--accent) !important; border-color: var(--accent) !important; color: #fff !important;
+               border-radius: 999px; font-weight: 600; letter-spacing: 0.04em; }
+.btn-primary:hover { background-color: var(--accent-dark) !important; border-color: var(--accent-dark) !important; }
+.btn-xl { padding: 16px 34px; font-size: 15px; }
+::selection { background: #a5e1ee; }
+
+/* navigation */
+#mainNav .navbar-brand { font-family: 'Montserrat', sans-serif; color: #fff; font-weight: 600; }
+#mainNav .navbar-nav .nav-item .nav-link { font-weight: 500; letter-spacing: 0.06em; }
+#mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link.active { color: #7dd3e6; }
+#mainNav.navbar-shrink { background-color: var(--navy) !important; }
+#mainNav .navbar-toggler { background-color: var(--accent) !important; }
+
+/* header text */
+header.masthead { text-shadow: none !important; }
+header.masthead .intro-text .intro-lead-in { font-style: normal; font-size: 18px; line-height: 28px; color: #cfe3ea; }
+header.masthead .intro-text .intro-lead-in a { color: #cfe3ea !important; }
+
+/* section headings: sentence case, lighter */
+section h2.section-heading { text-transform: none !important; font-size: 2.4rem; font-weight: 700; letter-spacing: -0.01em; margin-bottom: 12px; }
+section h3.section-subheading { font-style: normal; font-size: 1.05rem; line-height: 1.7; color: var(--muted); margin-bottom: 48px; }
+section h4 { font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.15rem; line-height: 1.6; }
+.page-section { padding: 90px 0; }
+.bg-light { background-color: #f4f7f9 !important; }
+
+/* full-width photo strips: shorter, and no empty band after them */
+section > img.w-100 { height: 280px; object-fit: cover; margin-top: 40px; display: block; }
+section:has(> img.w-100) { padding-bottom: 0; }
+
+/* research cards */
+#research .portfolio-item { border-radius: 10px; overflow: hidden; box-shadow: 0 1px 3px rgba(16, 42, 67, 0.12); }
+#research .portfolio-item .portfolio-caption { background: #fff; }
+#research .portfolio-item .portfolio-caption h4 { text-transform: none; }
+
+/* publications: grouped by year */
+.biblio { text-align: left; max-width: 860px; margin: 0 auto; padding-left: 0; list-style: none; font-size: 15px; line-height: 1.6; color: var(--ink); }
+.biblio li { margin: 0 0 18px 0; }
+.biblio .pub-title { font-weight: 600; }
+.biblio .pub-link { display: inline-block; font-size: 12px; font-weight: 600; letter-spacing: 0.03em; padding: 1px 9px; margin-left: 4px;
+                    border: 1px solid var(--accent); border-radius: 999px; color: var(--accent); text-decoration: none; }
+.biblio .pub-link:hover { background: var(--accent); color: #fff; }
+.pub-year { max-width: 860px; margin: 34px auto 12px auto; font-family: 'Montserrat', sans-serif; font-weight: 700; font-size: 1.3rem;
+            color: var(--ink); border-bottom: 1px solid #dde3e8; padding-bottom: 6px; text-align: left; }
+.pub-group-title { font-family: 'Montserrat', sans-serif !important; font-weight: 700; font-size: 1.5rem !important; color: var(--ink) !important; margin-top: 10px; }
+
+/* people */
+.team-member img { width: 225px !important; max-width: 100%; height: auto !important; aspect-ratio: 1; object-fit: cover; border: none !important; box-shadow: 0 2px 10px rgba(16, 42, 67, 0.15); }
+.team-member h4 { font-size: 1.15rem; margin-top: 18px; }
+.team-member p { font-size: 14px; }
+ul.social-buttons li a { background-color: #e6eef2; color: var(--ink); }
+ul.social-buttons li a:hover { background-color: var(--accent); color: #fff; }
+.alumni-list { columns: 2; column-gap: 48px; max-width: 760px; margin: 0 auto 30px auto; text-align: left; font-size: 15px; }
+.alumni-list p { margin: 0 0 8px 0; break-inside: avoid; }
+@media (max-width: 767px) { .alumni-list { columns: 1; } section h2.section-heading { font-size: 2rem; } }
