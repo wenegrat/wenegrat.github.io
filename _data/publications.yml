@@ -1,8 +1,4 @@
 submitted:
-- authors: Zhang, Z. and 27 coauthors
-  title: Oceanic Submesoscale Processes and their Impacts.
-  journal: <i>Nature Reviews Earth & Environment</i>
-  links: []
 - authors: <b>Knudsen, L.</b>, <b>J.O. Wenegrat</b>, J. Hilditch, and L. Thomas
   title: Parametric subharmonic instability in the ocean bottom boundary layer.
   journal: <i>Journal of Fluid Mechanics</i>
@@ -16,12 +12,18 @@ submitted:
   - url: https://arxiv.org/abs/2605.15879
     label: preprint
 published:
+- authors: Zhang, Z. and 27 coauthors
+  title: Oceanic Submesoscale Processes and their Impacts.
+  journal: <i>Nature Reviews Earth & Environment</i> in press.
+  links: []
 - authors: <b>Zheng, Z.</b>, <b>J.O. Wenegrat</b>, B. Fox-Kemper, <b>T. Chor</b>, and G.J. Brett, 2026
   title: Submesoscale frontogenesis drives strong finescale tracer subduction.
-  journal: '<i>Journal of Geophysical Research: Oceans</i> in press.'
+  journal: '<i>Journal of Geophysical Research: Oceans</i> 131, e2026JC024594, doi:10.1029/2026JC024594'
   links:
-  - url: https://essopenarchive.org/doi/full/10.22541/essoar.15003344/v3
-    label: preprint
+  - url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024594
+    label: online
+  - url: ./publications/ZhengEtAl2026.pdf
+    label: pdf
 - authors: <b>Uchoa, I.</b>, <b>J.O. Wenegrat</b>, A. Kinsella, I.M. Leyba, L. O'Neill, and L. Lenain, 2026
   title: Observed rapid adjustment of the atmospheric boundary layer to submesoscale sea surface temperature fronts.
   journal: <i>Proceedings of the National Academy of Science</i>. 123 (30), e2605662123, doi:10.1073/pnas.2605662123
